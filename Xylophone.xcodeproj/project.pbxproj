@@ -26,6 +26,7 @@
 		F70E7A272766AB7400B529A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F70E7A292766AB7400B529A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F70E7A312766C45C00B529A0 /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Sounds; path = "../../../../Downloads/Xylophone-iOS13-master/Xylophone/Sounds"; sourceTree = "<group>"; };
+		F70E7A342766C5BE00B529A0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		F70E7A0F2766AB7100B529A0 = {
 			isa = PBXGroup;
 			children = (
+				F70E7A342766C5BE00B529A0 /* README.md */,
 				F70E7A1A2766AB7100B529A0 /* Xylophone */,
 				F70E7A192766AB7100B529A0 /* Products */,
 			);
